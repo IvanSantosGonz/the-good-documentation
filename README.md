@@ -11,7 +11,7 @@
   Instructions to run the project locally
   
   ### Pre-requisites 📝
-  List os software or other things needed to launch the project and instructions about how to download and install them.
+  List of software or other things needed to launch the project and instructions about how to download and install them.
   
   ### Installation 🛠
   Step by step guide about how to install and launch the project. It is something like a tutorial about the software installation and launching (it could include images, code snippets or screenshots if it is neccessary).

@@ -66,7 +66,7 @@
  _The CI/CD system of this project uses github actions and you can see the reports [here](http://github.com)._
  
  ## Contributing 🖊️
-Explanation about how to contribute or work on this project. You can link to a document `CONTRIBUTING.md`_
+Explanation about how to contribute or work on this project. You can link to a document `CONTRIBUTING.md`
 
 _If you want to contribute to this project, we invite you to read the [CONTRIBUTING.md](./CONTRIBUTING.md) document._
  

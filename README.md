@@ -1,7 +1,6 @@
-![CI](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-![tests](https://img.shields.io/azure-devops/tests/:organization/:projectId/:definitionId/:branch*?job=Successful%20Job&stage=Successful%20Stage)
-![Build](https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId/:branch*?job=Successful%20Job&stage=Successful%20Stage)
-![GitHub manifest version](https://img.shields.io/github/manifest-json/v/assasa/sasasa)
+![build](https://img.shields.io/badge/build-passing-green)
+![tests](https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red)
+![version](https://img.shields.io/badge/version-1.0.0-green)
 
 # Project Title
 

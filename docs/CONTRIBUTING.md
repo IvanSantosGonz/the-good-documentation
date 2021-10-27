@@ -1,7 +1,3 @@
-![build](https://img.shields.io/badge/build-passing-green)
-![tests](https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red)
-![version](https://img.shields.io/badge/version-1.0.0-green)
-
 # Project Title
 
 If you have come this far, you want to contribute to the project. This document tells you how to do it and what you should keep in mind.
@@ -19,6 +15,9 @@ Examples:
 - Activity diagrams
 - ADRs
 - Architecture
+
+## Project Architecture 🏛️
+Add a short explanation and an image that represents the architecture of the project.
 
 ## Getting Started 🚀
 These instructions will allow you to have the project running on your local machine for development and testing purposes.

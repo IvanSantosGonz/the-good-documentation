@@ -29,7 +29,7 @@ _If you want to contribute to this project, we invite you to read the [CONTRIBUT
 ## Versioning 🧾
  Explanation of the versioning standard we use and link to `CHANGELOG.md`.
  
- _We use [SemVer](http://semver.org/) for versioning. In the [CHANGELOG.md](./docs/CHANGELOG.md) you will be able to see the different versions as well as their changelogs_.
+ _We use [SemVer](http://semver.org/) for versioning. In [CHANGELOG.md](./docs/CHANGELOG.md) you will be able to see the different versions as well as their changelogs_.
   
 ---
 Made with ❤️and ☕ by [Iván Santos](https://github.com/IvanSantosGonz)

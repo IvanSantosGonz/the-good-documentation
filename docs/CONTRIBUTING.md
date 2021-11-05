@@ -4,6 +4,7 @@ If you have come this far, you want to contribute to the project. This document 
 
 ## Contributing 🖊️
 Explanation about the development flow of this project. Is feature branching or TBD used? Does it merge directly into a master's branch? Are PRs done? PR requirements?
+What is the expected PR response time? 
 
 ## Development documentation 👩‍💻
 Resources that could help you get into context and better understand the taken decisions and design.
@@ -61,7 +62,7 @@ _To get the test coverage run ..._
 
 
 ### Other useful commands 🧰
-List of other commands than could be important to know in the porject context.
+List of other commands than could be important to know in the project context.
 
 - _`npm run migrate`: Migrate database schemas for models_
 - _`npm run openapi-spec`: Generate OpenAPI spec into a file_
@@ -70,13 +71,16 @@ List of other commands than could be important to know in the porject context.
 Step by step guide about how to deploy the project.
 
 ## CI/CD workflows 🏭
-Explananation about which CI/CD systems are being used in the project and links to them.
+Explanation about which CI/CD systems are being used in the project and links to them.
 
 _The CI/CD system of this project uses github actions and you can see the reports [here](http://github.com)._
 
 ## Technical Debt
 
-Link here the place where the technical debt is being recorded.
+Link here the place where the technical debt is being recorded. It could be a document in the own 
+repository or a link to the technical debt wall or whatever other way used to record the technical debt.
+
+_The technical debt is recorded in this document [TECHDEBT.md](./TECHDEBT.md)._ 
 
 
 

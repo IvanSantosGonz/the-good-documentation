@@ -10,7 +10,7 @@
 ## Getting Started 🚀
   Basic instructions to run and use the project, here we can link the contributing section where it is explained in depth.
 
-### Pre-requisites 📝
+### Pre-requisites ✔️
 List of software or other things needed to launch the project and instructions about how to download and install them.
 
 ### Installation 🛠
@@ -32,7 +32,7 @@ _If you want to contribute to this project, we invite you to read the [CONTRIBUT
  _We use [SemVer](http://semver.org/) for versioning. In [CHANGELOG.md](./docs/CHANGELOG.md) you will be able to see the different versions as well as their changelogs_.
   
 
-## LICENSE 
+## License 📝
 Short explanation about the project license and link to the License file.
 
 _This project is licensed under the license terms of GNU GENERAL PUBLIC LICENSE Version 3 and the license file

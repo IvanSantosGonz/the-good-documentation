@@ -1,8 +1,6 @@
-# Project Title
-
+## Contributing 🖊️
 If you have come this far, you want to contribute to the project. This document tells you how to do it and what you should keep in mind.
 
-## Contributing 🖊️
 Explanation about the development flow of this project. Is feature branching or TBD used? Does it merge directly into a master's branch? Are PRs done? PR requirements?
 What is the expected PR response time? 
 
@@ -75,7 +73,7 @@ Explanation about which CI/CD systems are being used in the project and links to
 
 _The CI/CD system of this project uses github actions and you can see the reports [here](http://github.com)._
 
-## Technical Debt 
+## Technical Debt 💰
 
 Link here the place where the technical debt is being recorded. It could be a document in the own 
 repository or a link to the technical debt wall or whatever other way used to record the technical debt.

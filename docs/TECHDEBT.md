@@ -1,4 +1,4 @@
-#Technical Debt
+# Technical Debt 💰
 The purpose of this document is to have all technical debt recorded in one place so that everyone
 team members can know about the existence of it.
 

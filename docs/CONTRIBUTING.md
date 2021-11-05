@@ -75,7 +75,7 @@ Explanation about which CI/CD systems are being used in the project and links to
 
 _The CI/CD system of this project uses github actions and you can see the reports [here](http://github.com)._
 
-## Technical Debt
+## Technical Debt 
 
 Link here the place where the technical debt is being recorded. It could be a document in the own 
 repository or a link to the technical debt wall or whatever other way used to record the technical debt.

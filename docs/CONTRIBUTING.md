@@ -45,9 +45,9 @@ _There are some unit tests in `src/__tests__/unit`._
 _To launch them run:_
 
 
-      ```sh
-        npm run test:unit
-      ```
+ ```sh
+    npm run test:unit
+ ```
 
 #### Integration tests 🔗
 _There are some integration tests in ..._

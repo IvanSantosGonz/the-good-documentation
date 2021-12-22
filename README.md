@@ -1,3 +1,9 @@
+
+If you are interested in why I decided to organize this template in this way, maybe this article (that I wrote in Spanish) will be useful for you.
+
+[https://ivansantosgonzalez.dev/the-desired-documentation](https://ivansantosgonzalez.dev/the-desired-documentation).
+
+
 ![build](https://img.shields.io/badge/build-passing-green)
 ![tests](https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red)
 ![version](https://img.shields.io/badge/version-1.0.0-green)
